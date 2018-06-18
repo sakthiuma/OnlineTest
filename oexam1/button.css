@@ -1,0 +1,97 @@
+.butn9{
+   
+  box-shadow: none !important;
+  border:2px solid white;
+  width: 70px;
+  height: 40px;
+ font-family:palatino;
+  font-size: 20px;
+  background-color:transparent;
+  border-radius: 15px;
+  outline: 0;
+  color:gold;
+
+
+
+  -webkit-transition: all 0.5s ease;
+     -moz-transition: all 0.5s ease;
+      -ms-transition: all 0.5s ease;
+          transition: all 0.5s ease;
+
+}
+
+.butn9:hover{
+
+  width: 80px;
+  height: 45px;
+  border-radius: 20px;
+  font-size: 20px;
+  background-color:  transparent;
+}
+
+.b1{
+    position:absolute;
+    top:60%;
+    left:40%;
+}
+
+
+
+.rs1{
+    position: absolute;
+    top:70%;
+    left:35%;
+    white-space: pre-wrap;
+}
+   
+
+.butn10{
+   
+  box-shadow: none !important;
+  border:2px solid white;
+  width: 140px;
+  height: 40px;
+    position: absolute;
+    top:65%;
+    left:68%;
+ font-family:palatino;
+  font-size: 20px;
+  background-color:green;
+  border-radius: 15px;
+  outline: 0;
+  color:gold;
+
+
+
+  -webkit-transition: all 0.5s ease;
+     -moz-transition: all 0.5s ease;
+      -ms-transition: all 0.5s ease;
+          transition: all 0.5s ease;
+
+}
+
+.butn11{
+   
+  box-shadow: none !important;
+  border:2px solid white;
+  width: 140px;
+  height: 40px;
+    position: absolute;
+    top:75%;
+    left:68%;
+ font-family:palatino;
+  font-size: 20px;
+  background-color:red;
+  border-radius: 15px;
+  outline: 0;
+  color:gold;
+
+
+
+  -webkit-transition: all 0.5s ease;
+     -moz-transition: all 0.5s ease;
+      -ms-transition: all 0.5s ease;
+          transition: all 0.5s ease;
+
+}
+    

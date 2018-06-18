@@ -1,0 +1,46 @@
+#q_l1
+{
+	position:absolute;
+		font-family:Trebuchet MS;
+		font-size:30px;
+		color:#FFFAF0;
+		top:7%;
+		right:10%;
+	left:75%;
+}
+#q_d1{
+	font-family:Trebuchet MS;
+    height: 20%;
+   
+}
+#q_d2{
+    position: absolute;
+		font-family:Trebuchet MS;
+    left:76%;
+    
+    height:40%;
+    width:20%;
+}
+#q_d3{
+    position: absolute;
+    top:80%;
+		font-family:Trebuchet MS;
+    left:25%;
+    width:60%;
+    height:10%;
+   
+}
+#q_d4{
+    position:absolute;
+		font-family:Trebuchet MS;
+    height:30%;
+    top:30%;
+    width:40%;
+	color:#FFFAF0;
+    
+}
+
+#q_b5{
+	width:30%;
+}
+
