@@ -1,0 +1,2 @@
+# OnlineTest
+A web-app designed to allow people take up general knowledge quiz. User is assessed for each answer and after the test timing is over , e is provided with his score and answers to the question. The answer page contains the user answer, correct answer and description. The questions provided to the user is different each time the user takes up the test. This way it allows the user to answer new set of questions
